@@ -249,7 +249,7 @@
     "addons-linter/glob": "^10.5.0"
   },
   "dependencies": {
-    "@babel/runtime": "patch:@babel/runtime@npm%3A7.25.9#~/.yarn/patches/@babel-runtime-npm-7.25.9-fe8c62510a.patch",
+    "@babel/runtime": "7.26.10",
     "@blockaid/ppom_release": "^1.5.3",
     "@ensdomains/content-hash": "^2.5.7",
     "@ethereumjs/tx": "patch:@ethereumjs/tx@npm%3A5.4.0#~/.yarn/patches/@ethereumjs-tx-npm-5.4.0-0c4a0f973e.patch",
